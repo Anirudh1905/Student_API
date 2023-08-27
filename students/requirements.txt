@@ -1,0 +1,4 @@
+requests
+flask_lambda
+Werkzeug==2.0.3
+boto3
